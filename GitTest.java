@@ -11,4 +11,8 @@ public class GitTest
 	{
 		return git;
 	}
+	public void setGit(String git)
+	{
+		this.git=git;
+	}
 }
